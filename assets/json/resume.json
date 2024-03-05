@@ -1,24 +1,29 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Marius Köppel",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "marius@koeppel123.de",
+    "phone": "",
+    "url": "koeppel123.de",
+    "summary": "A PhD student in Physics at Johannes Gutenberg Universität Mainz, focussing on experimental particle physics and machine learning, exploring the muon decay via the Mu3e Experiment and advocating for algorithmic fairness",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Hindenburgstr. 19",
+      "postalCode": "55118",
+      "city": "Mainz",
+      "countryCode": "DE",
+      "region": "Rhineland-Palatinate"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Marius Köppel",
+        "url": "https://www.linkedin.com/in/marius-k%C3%B6ppel-b0a2b915b"
+      },
+      {
+        "network": "github",
+        "username": "makoeppel",
+        "url": "https://github.com/makoeppel"
       }
     ]
   },
