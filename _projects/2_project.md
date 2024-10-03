@@ -2,7 +2,7 @@
 layout: page
 title: MuSiP
 description: Advanced muon spin spectroscopy with high lateral resolution using Si pixel detectors
-img: assets/img/3.jpg
+img: assets/img/musip.gif
 importance: 2
 category: work
 giscus_comments: true
