@@ -1,6 +1,8 @@
 github_users:
   - makoeppel
 
+repo_description_lines_max: 2
+
 github_repos:
   - makoeppel/direct-ranker
   - makoeppel/tau_3mu
