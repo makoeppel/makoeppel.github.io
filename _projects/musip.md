@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: MuSiP
+description: Advanced muon spin spectroscopy with high lateral resolution using Si pixel detectors
+img: assets/img/musip-logo.png
+importance: 2
+category: work
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

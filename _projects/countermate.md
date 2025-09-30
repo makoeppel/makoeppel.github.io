@@ -23,7 +23,7 @@ Die App wurde so entwickelt, dass keine personenbezogenen Daten erfasst, verarbe
 ## 2. Verantwortlicher
 Verantwortlich für die Verarbeitung Ihrer Daten im Sinne der Datenschutzgesetze ist:
 
-**Marius Köppel**  
+**Marius Snella Köppel**  
 koeppel.ma at googlemail.com
 
 ---
@@ -63,5 +63,5 @@ Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf zu aktualisieren, u
 ## 9. Kontakt
 Wenn Sie Fragen zu dieser Datenschutzerklärung haben, können Sie uns unter den folgenden Kontaktdaten erreichen:
 
-**Marius Köppel**  
+**Marius Snella Köppel**  
 koeppel.ma at googlemail.com
