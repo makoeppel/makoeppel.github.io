@@ -1,3 +1,21 @@
+{% if page.hero and page.hero.image %}
+  <section class="hero-block"
+           style="
+             --hero-image: url('{{ page.hero.image | relative_url }}');
+             {% if page.hero.overlay_color %}--hero-ovl-color: {{ page.hero.overlay_color }};{% endif %}
+             {% if page.hero.overlay_opacity %}--hero-ovl-op: {{ page.hero.overlay_opacity }};{% endif %}
+           ">
+    <div class="hero-overlay"></div>
+    <div class="hero-inner">
+      <h1 class="hero-title">{{ page.hero.title | default:  }}</h1>
+      {% if page.hero.subtitle or page.subtitle %}
+        <p class="hero-subtitle">{{ page.hero.subtitle | default:  }}</p>
+      {% endif %}
+    </div>
+  </section>
+  <div id="after-hero"></div>
+{% endif %}
+
 <header>
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
