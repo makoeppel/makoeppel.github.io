@@ -8,11 +8,11 @@ hero:
   overlay_color: "#000000"   # optional tint
   overlay_opacity: 0.35
   title: "From Rare Decays to Next-Generation Readout Systems"
-  subtitle: "Pushing the boundaries of experimental physics through Mu3e, CMS, and MuSiP -- integrating detector innovation, machine learning, and real-time, triggerless DAQ systems."
+  subtitle: "Experimental physics through Mu3e, CMS, and MuSiP -- integrating detector innovation, machine learning, and real-time, triggerless DAQ systems."
 profile:
   align: right
-  image: marius_art.png
-  image_circular: true # crops the image to make it circular
+  image: marius.png
+  image_circular: false # crops the image to make it circular
   more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
